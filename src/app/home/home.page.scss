@@ -1,0 +1,106 @@
+#nike {
+  width: 87px;
+  height: 35px;
+  margin-top: 35px;
+  margin-left: 27px;
+}
+
+.tenis1 {
+  position: absolute;
+  width: 420px;
+  height: 420px;
+  top: 5%;
+  left: 0px;
+  transform: rotate(-19.92deg);
+  display: block;
+  z-index: 2;
+}
+
+.elipse {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  top: 100px;
+  left: -10%;
+  gap: 0px;
+  opacity: 0px;
+  border-radius: 50%;
+  filter: blur(30px);
+  //z-index: 2;
+}
+
+.summer {
+  position: absolute;
+
+  font-weight: 400;
+  line-height: 50px;
+  text-align: left;
+  width: 322px;
+  height: 100px;
+  top: 350px;
+  left: 27px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+#summer {
+  font-size: 38px;
+  color: #144273;
+}
+
+.sub {
+  position: absolute;
+
+  font-weight: 400;
+  line-height: 50px;
+  text-align: left;
+  width: 140px;
+  height: 50px;
+  top: 449px;
+  left: 30px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+#sub {
+  font-size: 46px;
+  color: #ffff;
+}
+
+.texto {
+  position: absolute;
+
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  width: 368px;
+  height: 116px;
+  top: 520px;
+  left: 28px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+#texto {
+  font-size: 20px;
+}
+
+button {
+  position: absolute;
+  width: 240px;
+  height: 81px;
+  left: 100px;
+  background-color: #f2c94c;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  color: white;
+  border-radius: 50px;
+  top: 650px;
+  font-size: 24px;
+  font-weight: 600px;
+}
+
+button a {
+  text-decoration: none;
+  color: white;
+}
+
